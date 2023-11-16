@@ -33,3 +33,13 @@ int main()
     return 0;
 }
 
+Output:
+void main()
+{
+int a;
+int b;
+a = b + c;
+c = d * e;
+}
+Total number of words : 18
+Total number of lines : 7
